@@ -11,6 +11,7 @@ roundaboutness
 behavioural-economics
 biased-behaviour
 experimental-economics
+heterodox-economics
 institutional
 veblen
 keynesian-economics
